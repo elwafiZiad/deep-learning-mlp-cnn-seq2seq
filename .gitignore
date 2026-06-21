@@ -1,0 +1,25 @@
+# ── Données brutes (trop lourdes pour GitHub) ──────────────────────
+data/FashionMNIST/
+data/tatoeba/fra.txt
+data/tatoeba/fra-eng.zip
+data/dry_bean.zip
+
+# ── Cache Python ────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ── Environnements virtuels ─────────────────────────────────────────
+venv/
+.env
+env/
+
+# ── Fichiers système ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
