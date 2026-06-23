@@ -46,9 +46,7 @@ Ce projet implémente et compare trois grandes familles d'architectures de rése
 │   └── models/                 # Modèles entraînés (.pth)
 ├── data/
 │   └── DryBeanDataset/         # Dataset Dry Bean (inclus)
-├── rapport/
-│   └── Rapport_Final.md        # Rapport scientifique complet
-└── Projet_Deep-Learning_EMSI.pdf
+
 ```
 
 > **Note :** Les données Fashion-MNIST et Tatoeba sont téléchargées automatiquement à l'exécution des notebooks (torchvision / requests).
